@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Good Design
-image: /img/goodlight.jpg
 ---
 
 This lightswitch in my room has a good design. It is easy to use and has a very conprehensible signifier: it is a lever, so it goes up or down. Easy to use, easy to understand. It also helps that this image of a light switch is very recognizable. The light that it controls is located very close to it. Thus, it is very obvious which light source it controls (the other light and its corresponding switch are across the room and further apart from each other compared to this pair).
