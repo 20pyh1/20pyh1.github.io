@@ -2,7 +2,8 @@
 layout: post
 title: Project Proposal
 ---
-# Popping the Purple Bubble with Hire Education
+# Popping the Purple Bubble
+### with Hire Education
 
 A couple years ago, I had a lengthy conversation with a man on the bus on the way back to Williams after Spring break. He was heading to North Adams to start up a business, where he hoped he would be able to employ lots of residents from that area. He believed that with some economic pushes, North Adams could really flourish. I mentioned that we have a club at school that deals with these kinds of design thinking issues that he could try to get in contact with that could help in planning out his goals. He gave me his info and I gave him mine, but nothing came of it.
 
