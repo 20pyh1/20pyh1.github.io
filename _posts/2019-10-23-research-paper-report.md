@@ -19,7 +19,9 @@ After reading this paper, I don't think there is anything that I would have done
 I don't think we can compare our product to the model Ansari, Essegaier, and Kohli designed because we didn't create a recommender model. We only know that it is something that we need to implement in order to complete our task of finding the perfect events for a user. The recommender system we plan to use is simpler than theirs; it takes in less data to make its predictions and so may be less accurate, as their tests showed. However, in the context of our app and its purpose, I don't think we need a recommender system that strong. We are only looking at the explicit user preferences for product attributes for our task. The current issue we are solving is that there is no method of recommendation at all in most listings of events, so I think it is ok that we are starting small. However, I will admit that accuracy never hurts, so if we were to actually implement this app, we might look into ways to improve the accuracy of our recommender system.
 
 **Citation**
+
 Ansari, Asim, et al. “Internet Recommendation Systems.” Journal of Marketing Research, vol. 37, no. 3, 2000, pp. 363–375., doi:10.1509/jmkr.37.3.363.18779.
 
 **Link to Paper**
+
 https://journals.sagepub.com/doi/pdf/10.1509/jmkr.37.3.363.18779
