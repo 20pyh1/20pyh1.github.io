@@ -4,20 +4,20 @@ title: Design Manifesto
 ---
 Technology is absolutely booming as an industry. Startups are popping up left and right. New tech is constantly being developed and improved upon. So you wanna get on this tech train? Join the queue.
 
-But before you can launch the next wildly successful app, before you even start coding it, you need to design it, and designing is lot more work than it looks, and is even harder to do it right. I’m going to show you the most important lessons I’ve learned while designing a product under Iris Howley (PhD)‘s HCI class.
+But before you can launch the next wildly successful app, before you can even start coding it, you need to design it, and designing is lot more work than it looks, and is even harder to do it right. I’m going to show you the most important lessons I’ve learned while designing a product under Iris Howley (PhD)‘s HCI class.
 
 #### Stop thinking about solutions
 That’s right. Stop thinking about solutions. At least, don’t think about them right off the bat. You may be asking, “how am I supposed to design a product to solve some problem without thinking of a solution?” And to that I say, “how are you going to find a good solution if you don’t have a good problem to solve?"
 
 Answer? You can’t.
 
-The first thing you need to do is find a good problem to solve, which is more involved than you would think.
+The first thing you need to do is find a good problem to solve, which is more involved than you would think. The first steps we took while designing our product were to continuously revise our project proposals, first with [individual proposals](https://20pyh1.github.io/2019-09-18-Project-Proposal/), then with [group proposals] (https://clink-app.github.io/project_proposal/), to get a general sense of the area we wanted to work in.
 
-The first steps we took while designing our product was to continuously revise our project proposals, first with individual proposals, then with group proposals, to get a good problem that we wanted to solve. We defined a “good problem” 
+After we found our main subject of interest, we narrowed it down to specific issues within that area that needed solving through [interviewing users in that sphere and conducting contextual inquiries](https://clink-app.github.io/2019-10-02-CI_review/). Once we gathered all the problems users seemed to be having, we constructed an affinity diagram to group them together and find natural connections between the issues. These groupings helped us brainstorm exactly what [tasks] (https://clink-app.github.io/2019-10-06-task-review/) our product needed to do in order to address these issues. It was only then that we could begin to think about designing a solution.
 
-We started with a general idea of what problem we wanted to work with and narrowed it down to specific issues that needed solving through interviewing users in that sphere and conducting contextual inquiries. Once we gathered a plethora of little problems, we constructed an affinity diagram to group them together and find connections.
+![](/img/affinity_diagram.PNG)
 
-Persona?
+If you start thinking about solutions too early, you end up boxing yourself in. So conduct your contextual inquiries and interviews, review what you've learned from them with an affiniy diagram, and then develop the tasks you need your product to support in order to solve these issues.
 
 ####The users are always right
 Drill that into your brain. This is the most important part, in my opinion, of making a good design.
