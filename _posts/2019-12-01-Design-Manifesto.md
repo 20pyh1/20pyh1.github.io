@@ -11,9 +11,9 @@ That’s right. Stop thinking about solutions. At least, don’t think about the
 
 Answer? You can’t.
 
-The first thing you need to do is find a good problem to solve, which is more involved than you would think. The first steps we took while designing our product were to continuously revise our project proposals, first with [individual proposals](https://20pyh1.github.io/2019-09-18-Project-Proposal/), then with [group proposals] (https://clink-app.github.io/project_proposal/), to get a general sense of the area we wanted to work in.
+The first thing you need to do is find a good problem to solve, which is more involved than you would think. The first steps we took while designing our product were to continuously revise our project proposals, first with [individual proposals](https://20pyh1.github.io/2019-09-18-Project-Proposal/), then with [group proposals](https://clink-app.github.io/project_proposal/), to get a general sense of the area we wanted to work in.
 
-After we found our main subject of interest, we narrowed it down to specific issues within that area that needed solving through [interviewing users in that sphere and conducting contextual inquiries](https://clink-app.github.io/2019-10-02-CI_review/). Once we gathered all the problems users seemed to be having, we constructed an affinity diagram to group them together and find natural connections between the issues. These groupings helped us brainstorm exactly what [tasks] (https://clink-app.github.io/2019-10-06-task-review/) our product needed to do in order to address these issues. It was only then that we could begin to think about designing a solution.
+After we found our main subject of interest, we narrowed it down to specific issues within that area that needed solving through [interviewing users in that sphere and conducting contextual inquiries](https://clink-app.github.io/2019-10-02-CI_review/). Once we gathered all the problems users seemed to be having, we constructed an affinity diagram to group them together and find natural connections between the issues. These groupings helped us brainstorm exactly what [tasks](https://clink-app.github.io/2019-10-06-task-review/) our product needed to do in order to address these issues. It was only then that we could begin to think about designing a solution.
 
 ![](/img/affinity_diagram.PNG)
 
