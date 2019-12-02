@@ -22,7 +22,7 @@ If you start thinking about solutions too early, you end up boxing yourself in. 
 #### The users are always right
 Drill that into your brain. This is the most important part, in my opinion, of making a good design.
 
-If your usability testers say that they couldn’t figure out how to complete a task, that means your design wasn’t able to [match their conceptual model](https://glow.williams.edu/files/153992345) of the task and it needs to be adjusted. If your [heuristic evaluators](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992352) tell you that you broke a heuristic, you broke a heuristic. If your testers say that the name of a button doesn’t make sense, it doesn’t make sense. The users are always right.
+If your usability testers say that they couldn’t figure out how to complete a task, that means your design wasn’t able to [match their conceptual model](https://glow.williams.edu/files/153992345) of the task and it needs to be adjusted. If your [heuristic evaluators](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992352) tell you that you broke a heuristic, you broke a heuristic. If your testers say that the name of a button doesn’t make sense and is ugly, it doesn’t make sense and it's ugly. The users are always right.
 
 Reading The Design of Everyday Things by Don Norman really shone a light on how bad design can lead to users feeling frustrated or stupid, when in actuality, the product not functioning as expected is not their fault, but the designer's. As the designer, it would be great if everyone could read your mind or instantly know how to work your product at first sight, but real people don’t work like that, and real people are who we are designing for.
 
@@ -41,10 +41,10 @@ Take care of your stake holders and especially your users. You have a responsibi
 
 
 #### Rated E for Everyone
-Your product should be able to be used by everyone in your user base.
-Accessibility and disability
-Language
-Age
+Your product should be able to be used by everyone in your user base. Think about barriers to use when designing for accessibility.
+
+When we were designing our app, we knew from our contextual inquiries that a portion of our user base would be older indivuduals that were not too good with technology. Therefore, we chose to have our app be very simple in its aesthetic and function, so that people unfamiliar with mobile apps could use it without getting confused. Thoughout our design process, we added more information to each page so that anyone who is unfamiliar with an interface feature can easily figure out how to use it (grey text describing how to use a text box, help buttons for more sophisticated tasks).
+![grey text](https://github.com/clink-app/clink-app.github.io/blob/master/img/mockup-filter-page-default.png) ![help button](https://github.com/clink-app/clink-app.github.io/blob/master/img/mockup-recommended-page-info.png)
 
 #### Iterate, Iterate, Iterate
 If more than one person is going to use your product, you need to test it with more than one person, prefereably as many people as you can. Keep this group diverse so that you can uncover any biases in your design or find design flaws that certain subgroups can navigate but others cannot. Your design should cater to your entire user base, and in order to find out if it does, you need to test and fix your product with a big enough sample population to represent the whole thing.
