@@ -15,7 +15,7 @@ The first thing you need to do is find a good problem to solve, which is more in
 
 After we found our main subject of interest, we narrowed it down to specific issues within that area that needed solving through [interviewing users in that sphere and conducting contextual inquiries](https://clink-app.github.io/2019-10-02-CI_review/). Once we gathered all the problems users seemed to be having, we constructed an affinity diagram to group them together and find natural connections between the issues. These groupings helped us brainstorm exactly what [tasks](https://clink-app.github.io/2019-10-06-task-review/) our product needed to do in order to address these issues. It was only then that we could begin to think about designing a solution.
 
-![](/img/affinity_diagram.PNG)
+![affinity diagram](https://github.com/clink-app/clink-app.github.io/blob/master/img/affinity_diagram.PNG)
 
 If you start thinking about solutions too early, you end up boxing yourself in. So conduct your contextual inquiries and interviews, review what you've learned from them with an affiniy diagram, and then develop the tasks you need your product to support in order to solve these issues.
 
