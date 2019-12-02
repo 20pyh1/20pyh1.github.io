@@ -17,7 +17,7 @@ After we found our main subject of interest, we narrowed it down to specific iss
 
 ![affinity diagram](https://github.com/clink-app/clink-app.github.io/blob/master/img/affinity_diagram.PNG)
 
-If you start thinking about solutions too early, you end up boxing yourself in. So conduct your contextual inquiries and interviews, review what you've learned from them with an affiniy diagram, and then develop the tasks you need your product to support in order to solve these issues.
+If you start thinking about solutions too early, you end up boxing yourself into solving that one problem, which might not even be a very good problem. So conduct your contextual inquiries and interviews, review what you've learned from them with an affinity diagram, and then develop the tasks you need your product to support in order to solve these issues.
 
 #### The users are always right
 Drill that into your brain. This is the most important part, in my opinion, of making a good design.
