@@ -44,7 +44,10 @@ Take care of your stake holders and especially your users. You have a responsibi
 Your product should be able to be used by everyone in your user base. Think about barriers to use when designing for accessibility.
 
 When we were designing our app, we knew from our contextual inquiries that a portion of our user base would be older indivuduals that were not too good with technology. Therefore, we chose to have our app be very simple in its aesthetic and function, so that people unfamiliar with mobile apps could use it without getting confused. Thoughout our design process, we added more information to each page so that anyone who is unfamiliar with an interface feature can easily figure out how to use it (grey text describing how to use a text box, help buttons for more sophisticated tasks).
+
 ![grey text](https://github.com/clink-app/clink-app.github.io/blob/master/img/mockup-filter-page-default.png) ![help button](https://github.com/clink-app/clink-app.github.io/blob/master/img/mockup-recommended-page-info.png)
+
+For our users who are using a reader to navigate and use our product, we make sure to display the most important information about each event first in the listings. That way, users can listen to the just name of the event, the time, the date, and the location before deciding if they want to listen to a longer description of the event. This also makes it more efficient for our seeing users to navigate events as well, since they can easily skim the events for ones that match their availabilities first.
 
 #### Iterate, Iterate, Iterate
 If more than one person is going to use your product, you need to test it with more than one person, prefereably as many people as you can. Keep this group diverse so that you can uncover any biases in your design or find design flaws that certain subgroups can navigate but others cannot. Your design should cater to your entire user base, and in order to find out if it does, you need to test and fix your product with a big enough sample population to represent the whole thing.
