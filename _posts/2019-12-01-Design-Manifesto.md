@@ -19,22 +19,18 @@ After we found our main subject of interest, we narrowed it down to specific iss
 
 If you start thinking about solutions too early, you end up boxing yourself in. So conduct your contextual inquiries and interviews, review what you've learned from them with an affiniy diagram, and then develop the tasks you need your product to support in order to solve these issues.
 
-####The users are always right
+#### The users are always right
 Drill that into your brain. This is the most important part, in my opinion, of making a good design.
 
-If your usability testers say that they couldn’t figure out how to complete a task, that means your design wasn’t able to match their mental model of the task and it needs to be adjusted. If your heuristic evaluators tell you that you broke a heuristic, you broke a heuristic. If your testers say that the name of a button doesn’t make sense, it doesn’t make sense. The users are always right.
+If your usability testers say that they couldn’t figure out how to complete a task, that means your design wasn’t able to [match their conceptual model](https://glow.williams.edu/files/153992345) of the task and it needs to be adjusted. If your [heuristic evaluators](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992352) tell you that you broke a heuristic, you broke a heuristic. If your testers say that the name of a button doesn’t make sense, it doesn’t make sense. The users are always right.
 
-Reading The Design of Everyday Things by Don Norman.
-It would be great if everyone could read your mind or and instantly know how to work your product at first sight, but people don’t work like that and people are who we are designing for.
+Reading The Design of Everyday Things by Don Norman really shone a light on how bad design can lead to users feeling frustrated or stupid, when in actuality, the product not functioning as expected is not their fault, but the designer's. As the designer, it would be great if everyone could read your mind or instantly know how to work your product at first sight, but real people don’t work like that, and real people are who we are designing for.
 
-Kill your darlings
-As you design your product, from start to finish you will generate lots and lots of ideas, some good, some bad, some meh. Some of these ideas will become your darlings, either because you came up with them or you worked to revise them several times or just because you thought it was a really good idea.
+Don't be afraid to kill your darlings!
 
-However, recall the previous point. The user is always right. If your users can’t understand your idea, you should revise it so that they can, or get rid of it.
+As you design your product, from start to finish you will generate lots and lots of ideas, some good, some bad, some meh. Some of these ideas will become your babies, either because you came up with them or you worked to revise them several times or just because you thought it was a really good idea. However, recall the previous point. The user is always right. If your users can’t understand your idea, you should revise it so that they can, or get rid of it.
 
-Other times, you may realize there is a better way to organize your product, but will require completely reworking some details or potentially getting rid of them. 
-
-Info architechture
+Other times, you may realize there is a better way to organize your product such that the [information architechture](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992334) of your product is easier for your users to undertand and navigate, but will require completely reworking some details or potentially getting rid of them. Again, you should go with the new and improved design because your users come first. Kill those darlings, you can always make better ones later.
 
 #### Don’t be evil
 Google’s early slogan really should apply to everyone’s everyday life, but it especially applies to designing products where the designers have a lot of power over their user base.
@@ -51,8 +47,14 @@ Language
 Age
 
 #### Iterate, Iterate, Iterate
-There are many tests you can do in user experience research.
+If more than one person is going to use your product, you need to test it with more than one person, prefereably as many people as you can. Keep this group diverse so that you can uncover any biases in your design or find design flaws that certain subgroups can navigate but others cannot. Your design should cater to your entire user base, and in order to find out if it does, you need to test and fix your product with a big enough sample population to represent the whole thing.
 
-The last point to remember is htat the design process is work that needs to be done. So if you have an idea in mind, go out there and start designing. Failure is to be expected.
+There are many [tests](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3399583) you can do in user experience research. The most obvious of them is the [usability test](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992331) where you can let your users try completing a task on a prototype of your product. Take notes on where they struggled and what they assumed wrongly about the interface. These will guide you as you make your revisions to your prototype.
+
+I highly recommend starting with a [paper prototype](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992333) because of all the changes you will find yourself making throughout this testing product (remember, the user is always right)! Paper prototypes are cheaper and easier to make and edit, making for great initial testing prototypes when you don't know if your interface matches users' conceptual models or if it provides enough information to be navigated.
+
+#### Conclusion
+
+Remember, the design process is work that needs to be done. You won't magically find the perfect problem to solve. Your design issues won't resolve themselves. So if you have an idea in mind, go out there and start designing.
 
 
