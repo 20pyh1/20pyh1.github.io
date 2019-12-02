@@ -6,7 +6,7 @@ Technology is absolutely booming as an industry. Startups are popping up left an
 
 But before you can launch the next wildly successful app, before you even start coding it, you need to design it, and designing is lot more work than it looks, and is even harder to do it right. I’m going to show you the most important lessons I’ve learned while designing a product under Iris Howley (PhD)‘s HCI class.
 
-####Stop thinking about solutions
+#### Stop thinking about solutions
 That’s right. Stop thinking about solutions. At least, don’t think about them right off the bat. You may be asking, “how am I supposed to design a product to solve some problem without thinking of a solution?” And to that I say, “how are you going to find a good solution if you don’t have a good problem to solve?"
 
 Answer? You can’t.
@@ -36,7 +36,7 @@ Other times, you may realize there is a better way to organize your product, but
 
 Info architechture
 
-####Don’t be evil
+#### Don’t be evil
 Google’s early slogan really should apply to everyone’s everyday life, but it especially applies to designing products where the designers have a lot of power over their user base.
 
 Ethics
@@ -44,13 +44,13 @@ Take care of your stake holders and especially your users. You have a responsibi
  Think about how your app could be misused, then add protective measures to prevent that.
 
 
-####Rated E for Everyone
+#### Rated E for Everyone
 Your product should be able to be used by everyone in your user base.
 Accessibility and disability
 Language
 Age
 
-####Iterate, Iterate, Iterate
+#### Iterate, Iterate, Iterate
 There are many tests you can do in user experience research.
 
 The last point to remember is htat the design process is work that needs to be done. So if you have an idea in mind, go out there and start designing. Failure is to be expected.
