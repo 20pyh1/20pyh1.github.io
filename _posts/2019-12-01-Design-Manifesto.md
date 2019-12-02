@@ -35,10 +35,11 @@ Other times, you may realize there is a better way to organize your product such
 #### Don’t be evil
 Google’s early slogan really should apply to everyone’s everyday life, but it especially applies to designing products where the designers have a lot of power over their user base.
 
-Ethics
-Take care of your stake holders and especially your users. You have a responsibility to protect your users from harm that could come from your product. For instance, the app we designed had a report function for any events that seemed sketchy.
- Think about how your app could be misused, then add protective measures to prevent that.
+Being an ethical designer means taking care of your stake holders and especially your users. You have a responsibility to protect your users from harm that could come from your product. Think about how your app could be misused, then add protective measures to prevent that. For instance, the app we designed had a report function for any events that seemed sketchy or dangerous. Our app also asks users to input their likes and dislikes, as well as integrates with their personal calender. That's a lot of personal information. However, we have no plans of using this information for anything else than the app's main purpose of finding events for our users. There is also no way for anyone else to gain access to this information unless the user willingly shares.
 
+![report event](https://github.com/clink-app/clink-app.github.io/blob/master/img/mockup-report-page.png)
+
+There have been [many](https://www.washingtonpost.com/news/dr-gridlock/wp/2018/03/19/uber-halts-autonomous-vehicle-testing-after-a-pedestrian-is-struck/) [cases](https://glow.williams.edu/courses/2539542/files/folder/readings/ethics?preview=153992302) where a lack of ethical integrity has cost users' lives. As the designer, it is your responsibility to prevent that from happening. In general, you should address potential [biases](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) in your product, [protect](https://drive.google.com/file/d/1Qna8UG2zc2pfcJS5caY9o_dLSwGtX0mI/view) your users' information, and [take care](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/) of the wellbeing of the people working with your product. The [signal code](https://drive.google.com/file/d/13zPDIGJGRb6YPp720pGyaYYRkYn87qx3/view) provides a great outline of users' rights to information, privacy, and data that can be incorporated into ethical designing.
 
 #### Rated E for Everyone
 Your product should be able to be used by everyone in your user base. Think about barriers to use when designing for accessibility.
